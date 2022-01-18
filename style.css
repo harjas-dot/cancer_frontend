@@ -118,7 +118,7 @@ span{
     box-shadow: 3px 10px 20px 5px rgba(0, 0, 0, .5);
     margin:20px;
     margin-bottom: 30px !important;
-    
+
   }
   .info{
     display: none;
@@ -135,6 +135,9 @@ span{
 
     font-size: 16px;
     padding: 5px 50px;
+  }
+  form{
+    height: 70%;
   }
 
 }
